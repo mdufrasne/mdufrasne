@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mdufrasne
+- 👀 I’m interested in all tihngs programming and tech. I have been doing full stack development with mostly c# in the middle tier for awhile though.
+- 🌱 I’m currently learning more about GPU programming - I've worked GPU adjacent for a long time, it feels like I should know more.
+- 💞️ I’m looking to collaborate on anything interesting.
+- 📫 Drop me a DM on twitter @mdufrasne
